@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Surya
-- 👀 I’m interested in ML and DL techs
+- 👀 Great! You're looking at my profile... 
+-👋 Hi, I’m Surya
 - 🌱 I’m currently a B.Tech IT student at SRM EEC
 - 📫 wanna reach me ... here is my linkedin profile - https://www.linkedin.com/in/surya-selvakumar-469b781b4/
 
