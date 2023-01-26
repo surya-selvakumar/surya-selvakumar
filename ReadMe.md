@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an enthusiastic ML developer<br>👯 I’m looking to collaborate on ML related projects<br>⚡📲 Ping me on ⬇️
+🔭 Passionate teacher for Machines, calls myself a ML Developer<br><br>⚡📲 Ping me on ⬇️
 
 
 ## 🌐 Socials:
