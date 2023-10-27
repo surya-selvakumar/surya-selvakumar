@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Passionate teacher for Machines, calls myself a ML Developer<br><br>⚡📲 Ping me on ⬇️
+🔭 Developer here!⚡📲 Ping me on ⬇️
 
 
 ## 🌐 Socials:
